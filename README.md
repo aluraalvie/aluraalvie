@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aluraalvie
-https://wakatime.com/badge/user/1cdbbb67-e263-4fbe-88f5-23e9865062e2.svg
+[https://wakatime.com/badge/user/1cdbbb67-e263-4fbe-88f5-23e9865062e2.svg]
 - 👀 I’m interested in Web Development with Django and Go
 - 🌱 I’m currently learning pythonDjango
 - 💞️ I’m looking to collaborate on any code
